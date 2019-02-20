@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.wearoft.beta.data",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "5.8.1",
+    "applicationType": "microservice",
+    "baseName": "betaData",
+    "packageName": "com.wearoft.beta.data",
+    "packageFolder": "com/wearoft/beta/data",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MGViYWM3ODQ1ZjlhMGE4YzBiYzUzYjFjZDc2N2ZhNWMzNjE4ZTFjMzc4ZmNhN2I0ZTA1MTVmNGQ4ZDg3MWMxMGNjZDU0NDQ2MWVkNDAxMThlOGE0YmE0MmFlNDgzOGZmNzI1NTEwZTlhZWEyZjYwYTBiMTA5Mzc5NjJjZDA2Y2M=",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "es"
+    ],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
