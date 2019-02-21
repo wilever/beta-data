@@ -36,6 +36,8 @@
       "es"
     ],
     "skipClient": true,
-    "skipUserManagement": true
+    "skipUserManagement": true,
+    "herokuAppName": "beta-data",
+    "herokuDeployType": "git"
   }
 }
